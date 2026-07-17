@@ -157,7 +157,7 @@ Snake animation is generated through:
 </a>
 
 <a href="https://github.com/shivampatelaiml-create">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivampatelaiml-create&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="YOUR_X_LINK">
@@ -169,7 +169,7 @@ Snake animation is generated through:
 </a>
 
 <a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivampatelaiml-create&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
