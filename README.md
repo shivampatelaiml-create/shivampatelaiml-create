@@ -152,24 +152,20 @@ Snake animation is generated through:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shivam-patel-2a775a31b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shivampatelaiml-create">
-<img src="https://github-readme-stats.vercel.app/api?username=shivampatelaiml-create&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/shivampatelaiml-create" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_X_LINK">
-<img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="mailto:shivampatelaiml@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://github-readme-stats.vercel.app/api?username=shivampatelaiml-create&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+<a href="YOUR_INSTAGRAM_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
